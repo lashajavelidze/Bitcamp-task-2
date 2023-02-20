@@ -1,0 +1,8 @@
+@media (max-width: 23em) {
+  .equilibrium {
+    width: 30rem;
+  }
+  .equilibrium-flex {
+    gap: 5rem;
+  }
+}
